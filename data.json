@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "createdAt": "2024-11-01T10:00:00.000Z"
+    },
+    {
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "createdAt": "2024-11-02T11:30:00.000Z"
+    },
+    {
+      "name": "Charlie Brown",
+      "email": "charlie.brown@example.com",
+      "createdAt": "2024-11-03T12:15:00.000Z"
+    },
+    {
+      "name": "Diana Prince",
+      "email": "diana.prince@example.com",
+      "createdAt": "2024-11-04T09:45:00.000Z"
+    },
+    {
+      "name": "Edward Kenway",
+      "email": "edward.kenway@example.com",
+      "createdAt": "2024-11-05T14:20:00.000Z"
+    }
+  ]
+  
